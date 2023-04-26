@@ -8,3 +8,4 @@ datetime
 investpy
 datetime
 fundamentus
+plotly
